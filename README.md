@@ -39,8 +39,8 @@ I'm an **Artificial Intelligence Engineering student** at **Universidad de San A
 *   **Technology:** I'm implementing **Deep Q-Networks (DQN)**, a reinforcement learning algorithm, to enable the agent to master the game through trial and error.
 *   **Goal:** To understand and apply reinforcement learning principles in a practical game environment.
 *   **Status:** Finished
-*   **(Optional: Link to your project repository if it's public. Replace YOUR_SNAKE_PROJECT_REPO)**
-    `[Link to Project Repo](https://github.com/MIPatejim/YOUR_SNAKE_PROJECT_REPO)`
+*   **[Link to Project Repo](https://github.com/MIPatejim/YOUR_SNAKE_PROJECT_REPO)**
+
 
 ---
 
